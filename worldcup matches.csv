@@ -1,0 +1,56 @@
+match_number,team1,team2,match_date,venue,city,toss_winner,toss_decision,winning_team,player_of_match,superover,margin,won_by,id
+"1",Canada,USA,2024-06-02,"Grand Prairie Stadium",Dallas,USA,bowl,USA,"Aaron Johnson",No,7,wickets,202401
+"2","Papua New Guinea","West Indies",2024-06-02,"Providence Stadium",Providence,"West Indies",bowl,"West Indies",Charles,No,5,wickets,202402
+"3",Oman,Namibia,2024-06-03,"Kensington Oval",Bridgetown,Namibia,bowl,Namibia,Wiese,Yes,11,runs,202403
+"4","Sri Lanka","South Africa",2024-06-03,"Nassau County International Cricket Stadium","New York","Sri Lanka",bowl,"South Africa",Nortje,No,6,wickets,202404
+"5",Afghanistan,Uganda,2024-06-04,"Providence Stadium",Providence,Uganda,bowl,Afghanistan,"Fazalhaq Farooqi",No,125,runs,202405
+"6",Scotland,England,2024-06-05,"Kensington Oval",Bridgetown,Scotland,bat,,,No,-,-,202406
+"7",Nepal,Netherlands,2024-06-05,"Grand Prairie Stadium",Dallas,Netherlands,bowl,Netherlands,"Tim Pringle",No,6,wickets,202407
+"8",Ireland,India,2024-06-05,"Nassau County International Cricket Stadium","New York",India,bowl,India,Bumrah,No,8,wickets,202408
+"9","Papua New Guinea",Uganda,2024-06-06,"Providence Stadium",Providence,Uganda,bowl,Uganda,"Riazat Ali Shah",No,3,wickets,202409
+"10",Australia,Oman,2024-06-06,"Kensington Oval",Bridgetown,Oman,bowl,Australia,Stoinis,No,39,runs,202410
+"11",Pakistan,USA,2024-06-07,"Grand Prairie Stadium",Dallas,USA,bowl,USA,"Monank Patel",Yes,5,runs,202411
+"12",Namibia,Scotland,2024-06-07,"Kensington Oval",Bridgetown,Namibia,bat,Scotland,Leask,No,5,wickets,202412
+"13",Canada,Ireland,2024-06-07,"Nassau County International Cricket Stadium","New York",Ireland,bowl,Canada,"Nicholas Kirton",No,12,runs,202413
+"14",Afghanistan,"New Zealand",2024-06-08,"Providence Stadium",Providence,"New Zealand",bowl,Afghanistan,Gurbaz,No,84,runs,202414
+"15","Sri Lanka",Bangladesh,2024-06-08,"Grand Prairie Stadium",Dallas,Bangladesh,bowl,Bangladesh,"Rishad Hossain",No,2,wickets,202415
+"16",Netherlands,"South Africa",2024-06-08,"Nassau County International Cricket Stadium","New York","South Africa",bowl,"South Africa",Miller,No,4,wickets,202416
+"17",Australia,England,2024-06-09,"Kensington Oval",Bridgetown,England,bowl,Australia,Zampa,No,36,runs,202417
+"18","West Indies",Uganda,2024-06-09,"Providence Stadium",Providence,"West Indies",bat,"West Indies","Akeal Hosein",No,134,runs,202418
+"19",India,Pakistan,2024-06-10,"Nassau County International Cricket Stadium","New York",Pakistan,bowl,India,Bumrah,No,6,runs,202419
+"20",Oman,Scotland,2024-06-10,"Sir Vivian Richards Stadium","North Sound",Oman,bat,Scotland,McMullen,No,7,wickets,202420
+"21","South Africa",Bangladesh,2024-06-10,"Nassau County International Cricket Stadium","New York","South Africa",bat,"South Africa",Klaasen,No,4,runs,202421
+"22",Canada,Pakistan,2024-06-11,"Nassau County International Cricket Stadium","New York",Pakistan,bowl,Pakistan,Amir,No,7,wickets,202422
+"23","Sri Lanka",Nepal,2024-06-12,"Central Broward Regional Park Stadium Turf Ground",Lauderhill,,,,,No,-,-,202423
+"24",Namibia,Australia,2024-06-12,"Sir Vivian Richards Stadium","North Sound",Australia,bowl,Australia,Zampa,No,9,wickets,202424
+"25",USA,India,2024-06-12,"Nassau County International Cricket Stadium","New York",India,bowl,India,"Arshdeep Singh",No,7,wickets,202425
+"26","West Indies","New Zealand",2024-06-13,"Brian Lara Stadium",Tarouba,"New Zealand",bowl,"West Indies",Rutherford,No,13,runs,202426
+"27",Bangladesh,Netherlands,2024-06-13,"Arnos Vale Ground",Kingstown,Netherlands,bowl,Bangladesh,Shakib,No,25,runs,202427
+"28",Oman,England,2024-06-14,"Sir Vivian Richards Stadium","North Sound",England,bowl,England,"Adil Rashid",No,8,wickets,202428
+"29","Papua New Guinea",Afghanistan,2024-06-14,"Brian Lara Stadium",Tarouba,Afghanistan,bowl,Afghanistan,"Fazalhaq Farooqi",No,7,wickets,202429
+"30",USA,Ireland,2024-06-15,"Central Broward Regional Park Stadium Turf Ground",Lauderhill,,,,,No,-,-,202430
+"31","South Africa",Nepal,2024-06-15,"Arnos Vale Ground",Kingstown,Nepal,bowl,"South Africa",Shamsi,No,1,run,202431
+"32",Uganda,"New Zealand",2024-06-15,"Brian Lara Stadium",Tarouba,"New Zealand",bowl,"New Zealand",Southee,No,9,wickets,202432
+"33",India,Canada,2024-06-16,"Central Broward Regional Park Stadium Turf Ground",Lauderhill,,,,,No,-,-,202433
+"34",England,Namibia,2024-06-16,"Sir Vivian Richards Stadium","North Sound",Namibia,bowl,England,"Harry Brook",No,41,runs,202434
+"35",Scotland,Australia,2024-06-16,"Daren Sammy National Cricket Stadium","Gros Islet",Australia,bowl,Australia,Stoinis,No,5,wickets,202435
+"36",Ireland,Pakistan,2024-06-16,"Central Broward Regional Park Stadium Turf Ground",Lauderhill,Pakistan,bowl,Pakistan,"Shaheen Afridi",No,3,wickets,202436
+"37",Bangladesh,Nepal,2024-06-17,"Arnos Vale Ground",Kingstown,Nepal,bowl,Bangladesh,"Tanzim Hasan Sakib",No,21,runs,202437
+"38","Sri Lanka",Netherlands,2024-06-17,"Daren Sammy National Cricket Stadium","Gros Islet",Netherlands,bowl,"Sri Lanka",Asalanka,No,83,runs,202438
+"39","Papua New Guinea","New Zealand",2024-06-17,"Brian Lara Stadium",Tarouba,"New Zealand",bowl,"New Zealand",Ferguson,No,7,wickets,202439
+"40","West Indies",Afghanistan,2024-06-18,"Daren Sammy National Cricket Stadium","Gros Islet",Afghanistan,bowl,"West Indies",Pooran,No,104,runs,202440
+"41","South Africa",USA,2024-06-19,"Sir Vivian Richards Stadium","North Sound",USA,bowl,"South Africa","de Kock",No,18,runs,202441
+"42","West Indies",England,2024-06-20,"Daren Sammy National Cricket Stadium","Gros Islet",England,bowl,England,"Philip Salt",No,8,wickets,202442
+"43",India,Afghanistan,2024-06-20,"Kensington Oval",Bridgetown,India,bat,India,"Suryakumar Yadav",No,47,runs,202443
+"44",Bangladesh,Australia,2024-06-21,"Sir Vivian Richards Stadium","North Sound",Australia,bowl,Australia,Cummins,No,28,runs,202444
+"45","South Africa",England,2024-06-21,"Daren Sammy National Cricket Stadium","Gros Islet",England,bowl,"South Africa","de Kock",No,7,runs,202445
+"46",USA,"West Indies",2024-06-22,"Kensington Oval",Bridgetown,"West Indies",bowl,"West Indies",Charles,No,9,wickets,202446
+"47",India,Bangladesh,2024-06-22,"Sir Vivian Richards Stadium","North Sound",Bangladesh,bowl,India,"Hardik Pandya",No,50,runs,202447
+"48",Afghanistan,Australia,2024-06-23,"Arnos Vale Ground",Kingstown,Australia,bowl,Afghanistan,Gulbadin,No,21,runs,202448
+"49",USA,England,2024-06-23,"Kensington Oval",Bridgetown,England,bowl,England,"Adil Rashid",No,10,wickets,202449
+"50","West Indies","South Africa",2024-06-24,"Sir Vivian Richards Stadium","North Sound","South Africa",bowl,"South Africa",Shamsi,No,3,wickets,202450
+"51",India,Australia,2024-06-24,"Daren Sammy National Cricket Stadium","Gros Islet",Australia,bowl,India,"Rohit Sharma",No,24,runs,202451
+"52",Afghanistan,Bangladesh,2024-06-25,"Arnos Vale Ground",Kingstown,Afghanistan,bat,Afghanistan,Naveen-ul-Haq,No,8,runs,202452
+"53",Afghanistan,"South Africa",2024-06-27,"Brian Lara Stadium",Tarouba,Afghanistan,bat,"South Africa","Marco Jansen",No,9,wickets,202453
+"54",India,England,2024-06-27,"Providence Stadium",Providence,England,bowl,India,Axar,No,68,runs,202454
+"55",India,"South Africa",2024-06-29,"Kensington Oval",Bridgetown,India,bat,India,"Virat Kohli",No,7,runs,202455
