@@ -5,8 +5,8 @@ I'm excited to share my latest project, a comprehensive data analysis and dashbo
 
 Key Features:
 
-📈 Batting Stats: Total runs, number of sixes/fours, strike rates
-🎯 Bowling Stats: Wickets taken, economy rates, averages, and strike rates
+📈 Batting Stats: Total runs, number of sixes/fours, strike rates<br>
+🎯 Bowling Stats: Wickets taken, economy rates, averages, and strike rates<br>
 🏆 Winning Percentage: Analysis based on toss decisions
 🌍 Match Outcomes: Wins by result type and venue
 📊 Team Performance: Total wins by team
