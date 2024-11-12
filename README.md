@@ -11,8 +11,8 @@ Key Features:
 🌍 Match Outcomes: Wins by result type and venue<br>
 📊 Team Performance: Total wins by team<br>
 🌟 Best XI Selection: Top 11 players of the tournament<br>
+
 This project was built using Python, MySQL, Excel, Power BI, HTML, and Node.js, aiming to create a user-friendly and engaging experience for cricket enthusiasts.
 
-Thank you to everyone who supported me on this journey! Excited to share more in the future.
 
-#T20WorldCup2024 #DataAnalysis #Dashboard #PowerBI #Python #MySQL #Cricket #DataVisualization #ProjectCompletion
+
